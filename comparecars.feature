@@ -16,3 +16,5 @@ and then user click "back to search"
 the user select check mark "Lexas" , "Chevrolet", "Jeep"
 and then user click "Go"
 then user verifies if  "2021 Tesla Model Y" and "2013 Ford Edge" display in a compare field
+
+add cm-102
